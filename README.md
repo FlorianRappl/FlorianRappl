@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋!
 
-<!--
-**FlorianRappl/FlorianRappl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Florian Rappl and I am a solution architect from Munich, Germany.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Piral](https://github.com/smapiot/piral), [AngleSharp](https://github.com/AngleSharp/AngleSharp), [Electron.NET](https://github.com/ElectronNET/Electron.NET), and a few other projects
+- 🌱 I’m currently learning a bit of everything
+- 👯 I’m looking to collaborate on micro frontends
+- 🤔 I’m looking for help with expanding Piral
+- 💬 Ask me about anything, especially as long as its about web dev or micro frontends in particular
+- 📫 How to reach me: [Twitter](https://twitter.com/FlorianRappl) and [LinkedIn](https://www.linkedin.com/in/florian-rappl/)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Just call me Flo (similar to Workflow, but more like Funflow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contributions
+
+![](https://github-readme-stats.vercel.app/api?username=FlorianRappl&hide_title=true&show_icons=true&theme=flat&include_all_commits=true)
+
+#### Repository Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianRappl&hide_title=true&layout=compact&theme=flat)
+
+#### Trophy Collection
+
+![](https://github-profile-trophy.vercel.app/?username=FlorianRappl&theme=react)
