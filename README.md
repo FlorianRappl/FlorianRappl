@@ -11,9 +11,16 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Just call me Flo (similar to Workflow, but more like Funflow)
 
+# Articles
+
+<!-- ARTICLES:START -->
+<!-- ARTICLES:END -->
+
 #### Contributions
 
 ![](https://github-readme-stats.vercel.app/api?username=FlorianRappl&hide_title=true&show_icons=true&theme=flat&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=FlorianRappl&theme=default)
 
 #### Repository Languages
 
