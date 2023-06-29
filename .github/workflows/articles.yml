@@ -15,5 +15,6 @@ jobs:
           comment_tag_name: "ARTICLES"
           commit_message: "Updated readme with the latest data"
           max_post_count: 50
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://dev.to/feed/florianrappl,https://medium.com/feed/@florianrappl,https://microfrontends.hashnode.dev/rss.xml,https://www.youtube.com/feeds/videos.xml?channel_id=UC2vFVYoHTcbuWLt_JANeiWw"
           
