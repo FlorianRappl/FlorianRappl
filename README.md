@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [Migration from Classic Hosting to Serverless](https://dev.to/florianrappl/migration-from-classic-hosting-to-serverless-3pkh)
 - [AMA - Manfred Steyer on Import Maps for Micro Frontends](https://dev.to/smapiot/ama-manfred-steyer-on-import-maps-for-micro-frontends-1mfo)
 - [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
 - [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
@@ -28,7 +29,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [Docker Content Trust on ACR with Azure Pipelines](https://dev.to/smapiot/docker-content-trust-on-acr-with-azure-pipelines-1p0k)
 - [Getting Started with Micro Frontends](https://dev.to/smapiot/getting-started-with-micro-frontends-ge9)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
-- [Fast Pages with React](https://dev.to/florianrappl/fast-pages-with-react-27og)
 - [Monolith vs. Micro Frontends](https://blog.bitsrc.io/monolith-vs-micro-frontend-e6e9772a068b?source=rss-2ecc4ad18c41------2)
 - [Micro Frontends Pattern Comparison](https://blog.bitsrc.io/microfrontend-pattern-comparison-c50a9d2e4172?source=rss-2ecc4ad18c41------2)
 - [How Micro Frontends are being Implemented in 2020: A Survey](https://blog.bitsrc.io/microfrontends-survey-evaluation-d2af7eade306?source=rss-2ecc4ad18c41------2)
