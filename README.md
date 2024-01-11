@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [Migration of Mario 5 to Serverless](https://dev.to/florianrappl/migration-of-mario-5-to-serverless-b00)
 - [Migration of a Dynamic Website to a Static Website](https://dev.to/florianrappl/migration-of-a-dynamic-website-to-a-static-website-iaj)
 - [Migration of a Multiplayer Game from Hosted to Serverless](https://dev.to/florianrappl/migration-of-a-multiplayer-game-from-hosted-to-serverless-2c6o)
 - [Migration from Classic Hosting to Serverless](https://dev.to/florianrappl/migration-from-classic-hosting-to-serverless-3pkh)
@@ -25,7 +26,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
 - [Astro and Azure Static Web Apps](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
 - [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
-- [Versioning Web Components](https://dev.to/florianrappl/versioning-web-components-3bda)
 - [Code PaLOUsa 2022 - Serverless for Frontends](https://www.youtube.com/watch?v=Rd_O-3yrIbI)
 - [Code PaLOUsa 2022 - The Next Frontier: Microfrontends!](https://www.youtube.com/watch?v=nq-0uNd9dv0)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
