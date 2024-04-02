@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [Micro Frontends with Native Federation 🍿](https://dev.to/florianrappl/micro-frontends-with-native-federation-56j4)
 - [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-d7)
 - [Mastering Blazor - Part 3: Localization and Internationalization](https://dev.to/florianrappl/mastering-blazor-part-3-localization-and-internationalization-o2a)
 - [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
@@ -25,7 +26,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [Migration from Classic Hosting to Serverless](https://dev.to/florianrappl/migration-from-classic-hosting-to-serverless-3pkh)
 - [AMA - Manfred Steyer on Import Maps for Micro Frontends](https://dev.to/smapiot/ama-manfred-steyer-on-import-maps-for-micro-frontends-1mfo)
 - [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
-- [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
 - [Code PaLOUsa 2022 - Serverless for Frontends](https://www.youtube.com/watch?v=Rd_O-3yrIbI)
 - [Code PaLOUsa 2022 - The Next Frontier: Microfrontends!](https://www.youtube.com/watch?v=nq-0uNd9dv0)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
