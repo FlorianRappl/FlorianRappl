@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [🧠 50 Outstanding WebDev Articles](https://dev.to/florianrappl/50-outstanding-webdev-articles-4b82)
 - [Announcing Micro Frontends Conference 2024](https://dev.to/smapiot/announcing-micro-frontends-conference-2024-15lg)
 - [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-22jk)
 - [🧠 50 Articles for May the Fourth](https://dev.to/florianrappl/50-articles-for-may-the-fourth-1a0f)
@@ -25,7 +26,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [🤯 150 WebDev Articles to Satisfy Your Curiosity](https://dev.to/florianrappl/150-articles-to-satisfy-your-curiosity-3c22)
 - [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
 - [Migration of Mario 5 to Serverless](https://dev.to/florianrappl/migration-of-mario-5-to-serverless-b00)
-- [Migration of a Dynamic Website to a Static Website](https://dev.to/florianrappl/migration-of-a-dynamic-website-to-a-static-website-iaj)
 - [Code PaLOUsa 2022 - Serverless for Frontends](https://www.youtube.com/watch?v=Rd_O-3yrIbI)
 - [Code PaLOUsa 2022 - The Next Frontier: Microfrontends!](https://www.youtube.com/watch?v=nq-0uNd9dv0)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
