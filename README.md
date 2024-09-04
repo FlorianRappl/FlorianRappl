@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [MDX with Translations 🐠](https://dev.to/smapiot/mdx-with-translations-157c)
 - [Faster Pages with React ✨](https://dev.to/smapiot/faster-pages-with-react-h8j)
 - [🧠 Don&#39;t Miss These 50 Articles](https://dev.to/florianrappl/dont-miss-these-50-articles-5dg4)
 - [🤯 Migration: Completed](https://dev.to/florianrappl/migration-completed-2f97)
@@ -25,7 +26,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [🤯 Keep Up With these 50 Articles](https://dev.to/florianrappl/keep-up-with-these-50-articles-18ah)
 - [Micro Frontends with Native Federation 🍿](https://dev.to/florianrappl/micro-frontends-with-native-federation-56j4)
 - [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-d7)
-- [Mastering Blazor - Part 3: Localization and Internationalization](https://dev.to/florianrappl/mastering-blazor-part-3-localization-and-internationalization-o2a)
 - [Code PaLOUsa 2022 - Serverless for Frontends](https://www.youtube.com/watch?v=Rd_O-3yrIbI)
 - [Code PaLOUsa 2022 - The Next Frontier: Microfrontends!](https://www.youtube.com/watch?v=nq-0uNd9dv0)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
