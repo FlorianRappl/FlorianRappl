@@ -28,7 +28,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [🤯 Migration: Completed](https://dev.to/florianrappl/migration-completed-2f97)
 - [Code PaLOUsa 2022 - Serverless for Frontends](https://www.youtube.com/watch?v=Rd_O-3yrIbI)
 - [Code PaLOUsa 2022 - The Next Frontier: Microfrontends!](https://www.youtube.com/watch?v=nq-0uNd9dv0)
-- [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
 - [Monolith vs. Micro Frontends](https://blog.bitsrc.io/monolith-vs-micro-frontend-e6e9772a068b?source=rss-2ecc4ad18c41------2)
 - [Micro Frontends Pattern Comparison](https://blog.bitsrc.io/microfrontend-pattern-comparison-c50a9d2e4172?source=rss-2ecc4ad18c41------2)
 - [How Micro Frontends are being Implemented in 2020: A Survey](https://blog.bitsrc.io/microfrontends-survey-evaluation-d2af7eade306?source=rss-2ecc4ad18c41------2)
