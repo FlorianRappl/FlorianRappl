@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [My OSS Projects: AngleSharp](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j)
 - [netpack](https://dev.to/florianrappl/netpack-5ej4)
 - [Great edition - thanks to all the authors for their hard work!](https://dev.to/florianrappl/great-edition-thanks-to-all-the-authors-for-their-hard-work-4mm5)
 - [What&#39;s Hot in Web Dev?](https://dev.to/florianrappl/whats-hot-in-web-dev-42ng)
@@ -25,7 +26,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [MDX with Translations 🐠](https://dev.to/smapiot/mdx-with-translations-157c)
 - [Faster Pages with React ✨](https://dev.to/smapiot/faster-pages-with-react-h8j)
 - [🧠 Don&#39;t Miss These 50 Articles](https://dev.to/florianrappl/dont-miss-these-50-articles-5dg4)
-- [🤯 Migration: Completed](https://dev.to/florianrappl/migration-completed-2f97)
 - [Code PaLOUsa 2022 - Serverless for Frontends](https://www.youtube.com/watch?v=Rd_O-3yrIbI)
 - [Code PaLOUsa 2022 - The Next Frontier: Microfrontends!](https://www.youtube.com/watch?v=nq-0uNd9dv0)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
