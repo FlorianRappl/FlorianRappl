@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
 - [My OSS Projects: Mages](https://dev.to/florianrappl/my-oss-projects-mages-31cl)
 - [My OSS Projects: AngleSharp](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j)
 - [netpack](https://dev.to/florianrappl/netpack-5ej4)
@@ -25,7 +26,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [Sticky Transitioning Veggie Hamburger 🍔](https://dev.to/florianrappl/sticky-transitioning-veggie-hamburger-7dd)
 - [🧠 50 Articles to Master Web Dev](https://dev.to/florianrappl/50-articles-to-master-web-dev-4jhl)
 - [MDX with Translations 🐠](https://dev.to/smapiot/mdx-with-translations-157c)
-- [Faster Pages with React ✨](https://dev.to/smapiot/faster-pages-with-react-h8j)
+- [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
 - [Monolith vs. Micro Frontends](https://medium.com/bitsrc/monolith-vs-micro-frontend-e6e9772a068b?source=rss-2ecc4ad18c41------2)
 - [Micro Frontends Pattern Comparison](https://medium.com/bitsrc/microfrontend-pattern-comparison-c50a9d2e4172?source=rss-2ecc4ad18c41------2)
 - [How Micro Frontends are being Implemented in 2020: A Survey](https://medium.com/bitsrc/microfrontends-survey-evaluation-d2af7eade306?source=rss-2ecc4ad18c41------2)
