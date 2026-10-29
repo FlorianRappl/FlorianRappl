@@ -14,6 +14,7 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 #### Articles
 
 <!-- ARTICLES:START -->
+- [My OSS Projects: Codegen](https://dev.to/florianrappl/my-oss-projects-codegen-2cai)
 - [My OSS Projects: dets](https://dev.to/florianrappl/my-oss-projects-dets-1gjk)
 - [My OSS Projects: Picard.js](https://dev.to/florianrappl/my-oss-projects-picardjs-1f48)
 - [My OSS Projects: Netpack](https://dev.to/florianrappl/my-oss-projects-netpack-3274)
@@ -25,7 +26,6 @@ My name is Florian Rappl and I am a solution architect from Munich, Germany.
 - [Great edition - thanks to all the authors for their hard work!](https://dev.to/florianrappl/great-edition-thanks-to-all-the-authors-for-their-hard-work-4mm5)
 - [What&#39;s Hot in Web Dev?](https://dev.to/florianrappl/whats-hot-in-web-dev-42ng)
 - [🤯 50 Articles to Become a Web Dev Guru](https://dev.to/florianrappl/50-articles-to-become-a-web-dev-guru-71e)
-- [Hyper-Scale Activated! Ship Your Own FaaS 🤖](https://dev.to/smapiot/hyper-scale-activated-ship-your-own-faas-40kg)
 - [Getting Started with Micro Frontends](https://microfrontends.hashnode.dev/getting-started-with-micro-frontends)
 - [Monolith vs. Micro Frontends](https://medium.com/bitsrc/monolith-vs-micro-frontend-e6e9772a068b?source=rss-2ecc4ad18c41------2)
 - [Micro Frontends Pattern Comparison](https://medium.com/bitsrc/microfrontend-pattern-comparison-c50a9d2e4172?source=rss-2ecc4ad18c41------2)
